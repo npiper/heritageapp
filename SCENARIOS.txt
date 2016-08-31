@@ -1,0 +1,23 @@
+As a Site Browser I would like to know heritage places nearby where I am from
+As a Site Browser I would like to view pictures of heritage places in preview and detailed form
+As a Site Browser I would like to know heritage houses that are open to the public and their hours
+As a Site Browser I would like to know Sales history of heritage house
+As a Site Browser I would like to know Ownership history of a heritage house
+As a Site Browser I would like to view a timeline of heritage houses built in Victoria
+As a Systems Administrator I would like updated information from the Victorian Heritage Database
+As a Systems Administrator I would like to be easily able to get updated information in 
+a variety of formats from different data providers
+As a Systems Administrator I would like version controlled data and revision history of databases
+As a Site Browser I would like to know heritage houses that are open to the public 
+As a data owner I would like to be able to produce 'slice and dice' reports across various dimensions
+As a Site Browser I would like to know heritage houses that are hotels/boarding houses and their facilities
+As a Site Browser I would like to see relevant information on heritage house styles
+As a Site Browser I would like to know providers of period features (Schotts, ..)
+As a Site Browser I would like to add details about my property to the heritage database
+As a Site Browser I would like to view Suburb, Region, City and State reports on Heritage properties
+As a SIte Browser I would like to know nearby Garden's and Reserves ( http://www.data.vic.gov.au/raw_data/gardens-reserves-gfyl/124)
+As a Site Browser I would like to know nearby Tourism places and Images (http://www.data.vic.gov.au/data_tool/visions-of-victoria/155)
+Arts SPaces and Places (http://www.data.vic.gov.au/raw_data/arts-spaces-and-places/46)
+Lakes and Rivers (http://www.data.vic.gov.au/raw_data/vicmap-lite-rivers/81)
+View history of the suburbs over time ( http://www.data.vic.gov.au/raw_data/suburbs-in-time/89)(1981-2006 Censuses)
+As a Site Viewer I would like to see Bus, Train and Tram stops nearby a heritage house
